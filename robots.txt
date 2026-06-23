@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rupashkumar.github.io/rupash-designs/sitemap.xml
